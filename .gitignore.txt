@@ -1,9 +1,0 @@
-**/.vscode
-**/node_modules/**
-**/dist/**
-**/build/**
-**/.DS_Store
-/checklist-api/target/
-npm-debug.log*
-yarn-debug.log*
-yarn-error.log*
